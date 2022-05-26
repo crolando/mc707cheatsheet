@@ -3,6 +3,9 @@
 <!--- ![Roland MC-707 Diagram](mc-707.PNG) --->
 
 Hi there, and welcome to the unofficial Cheat Sheet for the [Roland MC-707 Groovebox](https://www.roland.com/global/products/mc-707/)! 
+This sheet was initially copied from this document, and adapted for the MC-707 content:
+https://github.com/NLxAROSA/mc101cheatsheet
+
 
 This Cheat Sheet aims to provide a one or two pager of the most useful shortcuts and workflow operations of this nifty little Groovebox. Please note that you'll be able to find *most* of these by reading the manuals, but who has time to go through all of that, right? ;)
 
