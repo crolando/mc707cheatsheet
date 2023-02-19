@@ -44,6 +44,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
 |<a name="CES"></a>Access the CHORD EDIT screen|**[SHIFT]**+**[CHORD]**|v1.0|
+|Chord Designer Screen|**[ENTER]**|[Chord Edit Screen](#CES)|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -116,7 +117,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
 |Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
-|Chord designer|**[ENTER]**|[Chord Edit Screen](#CES)|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
 
 
