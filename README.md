@@ -43,6 +43,16 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the clip setting screen| In the home screen, select a clip and:**[SHIFT]**+**[CLIP]** (Below the C2 knob)|v1.0|
 |To access the clip sequence setting screen| In the home screen, select a clip and:**[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 
+## Adjusting the Mix Sound
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|To adjust the volume of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C1]** knob.|v.1.0|
+|To adjust the pan of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C2]** knob.|v.1.0|
+|To adjust the delay send of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C3]** knob.|v.1.0|
+|To adjust the reverb send of the sound | Hold down the **[SEL]** button of the corresponding track and: Turn the **[C4]** knob.|v.1.0|
+
+
+
 ## Sequence editing shortcuts
 
 |Action|Shortcut|
