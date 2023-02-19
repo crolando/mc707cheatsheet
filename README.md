@@ -78,6 +78,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To start/stop each track|--|**PAD MODE [CLIP]**+**TRACK [SEL]**|v1.0|
 |To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
+|To transpose the sequence|**[NOTE]**+**Pad**|v1.8|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -93,10 +94,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
 |To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
 
-
-
 ## Sequence editing shortcuts
-
 |Action|Shortcut|
 |-----------------------------------|-----------------------------------|
 |Copy/Paste Step|Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**|
@@ -117,12 +115,11 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Chord designer|In chord mode, press **Shift**+**Filter**|
 
 ## Playback shortcuts
-
-|Action|Shortcut|
-|-----------------------------------|-----------------------------------|
+|Action|Shortcut|Version
+|-----------------------------------|-----------------------------------|-----------------------------------|
 |Force start|**Shift**+**Play**|
 |Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Track Sel**+**Pad** (for track)|
-|Transpose tone track|**Note**+**Pad**|
+|Transpose tone track|**Note**+**Pad**|v1.8
 |Select pitch of looper track|**Note**+**Pad**|
 |Random sequence|**Track Sel**+**>**|
 |Reverse sequence|**Track Sel**+**<**|
@@ -137,7 +134,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 
 
 ## Scene shortcuts
-
 |Action|Shortcut|
 |-----------------------------------|-----------------------------------|
 |Store Scene|**Clip**+**Pad1**-**Pad8**|
@@ -145,6 +141,11 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Scene selection|Long press **Clip**|
 |Scene chain|**Shift**+**Pad**|
 
+
+## Sampling shortcuts
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|Continuously assign the resulting sound sliced using the sampler to the pads|**[NOTE]**+**[ENTER]** (Press repeatedly)|v1.8|
 
 # Cheat Sheet - Workflows
 
