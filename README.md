@@ -41,7 +41,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |To access the clip setting screen| In the home screen, select a clip and:**[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
-|To access the clip sequence setting screen| In the home screen, select a clip and:**[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
+|<a name="CSS"></a>To access the clip sequence setting screen| In the home screen, select a clip and:**[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -57,6 +57,16 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To delete a knob’s motion|Hold down the **MOTION [ON]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
 |To punch-in motion|Hold down the **MOTION [REC]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
 
+## Phrase Editing
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|To step-record (Tone track only)|When in **[NOTE]** mode, Hold down the **[REC]** button and press the **[STEP]** button.|v.1.0|
+|To input Motion in a step|When in **[NOTE]** mode, Hold down the **[STEP]** button, and operate the **[FILTER]** **[MOD]** **[FX]** knobs of the corresponding track.|v.1.0|
+|To mute the drum part (for each clip)|When in **[NOTE]** mode, Hold down the **PAD MODE [MUTE]** button, and press a pad.|v1.0|
+|To enter weak drum beats|When in **[NOTE]** mode, Hold down the pad, and press the **[STEP]** button.|v1.0|
+|To clear the phrase from a clip|Hold down the **[CLEAR]** button, and Press the **[SEL]** button of the corresponding track.|v1.0|
+|To clear the phrase from a drum part|Hold down the **[CLEAR]** button, and Press a pad.|v1.0|
+|To duplicate a phrase|When the [clip sequence setting screen](#CSS) screen displayed, Hold down the **[FUNC]** button and press the **MEASURE [>]** button.|v1.0|
 
 ## Sequence editing shortcuts
 
