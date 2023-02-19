@@ -80,6 +80,9 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To transpose the sequence|**[NOTE]**+**Pad**|v1.8|
+|Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASUERE [>]**|v1.1|
+|Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASUERE [<]**|v1.1|
+|Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[TEMPO]**|v1.1|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -95,17 +98,20 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
 |To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
 |Adjust the Pad Gain|--|**[NOTE]**+**CURSOR [UP] / [DOWN]**|v1.2|
+|Initialize the parameter assigned to a knob|--|**[SHIFT]**+**[CLEAR]**+**[FILTER]** / **[MOD]** / **[FX]** knob|v1.1|
 
 ## Sequence editing shortcuts
-|Action|Shortcut|
-|-----------------------------------|-----------------------------------|
+|Action|Shortcut|Mode|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |Copy/Paste Step|Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**|
 |Delete Step|**Shift**+**Project**+**Pad**|
 |Pad edit|**Shift**+**Note**|
 |Duplicate measure|**Seq**+**>**|
 |Halve measure|**Seq**+**<**|
 |Add drum substep|**Seq**+**Pad**|
+|Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
 |Add low velocity drum hit|**Track Sel**+**Pad**|
+|Add low velocity drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
 |Clear clip|**Shift**+**Project**+**Clip**|
 |Edit measure length|**Shift**+**>** or **Shift**+**<**|
 |Auto-advance mode (tone track only)|**Pad**, **Record** + **Pad** of 1st step|
@@ -115,6 +121,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Cancel first/last step|**Shit**+**Project** while in first/last step mode|
 |Toggle notes/chords|Press twice **Note**|
 |Chord designer|In chord mode, press **Shift**+**Filter**|
+|Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
+
 
 ## Playback shortcuts
 |Action|Shortcut|Version|
