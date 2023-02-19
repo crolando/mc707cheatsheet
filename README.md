@@ -160,13 +160,13 @@ Start editing: Press **Seq**, then **Pad** to select the first step, then **Note
 
 Start editing: Press **Note**,**Pad** to select the drum part to edit, then **Seq**. Enable/disable steps for given drum part. Select drum part via **Value**.
 
-
 First/Last Step mode:
-
 
 Select last step: **Pad**
 
 Select first step: **Shift**+**Pad**
+
+Input a tie: In NOTE mode, **[FUNC]**+**[STEP]** (Added in Version 1.6)
 
 
 ## Realtime recording a tone track
