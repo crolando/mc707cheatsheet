@@ -87,6 +87,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[TEMPO]**|v1.1|
 |Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
 |Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
+|Transpose tone track|**Note**+**Pad**|v1.8
+|Play entire row of clips|**[CLIP]**+**[STEP]**|v1.2|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -120,26 +122,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
 |Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
-
-
-## Playback shortcuts
-|Action|Shortcut|Version|
-|-----------------------------------|-----------------------------------|-----------------------------------|
-|Force start|**Shift**+**Play**|
-|Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Track Sel**+**Pad** (for track)|
-|Transpose tone track|**Note**+**Pad**|v1.8
-|Select pitch of looper track|**Note**+**Pad**|
-|Random sequence|**Track Sel**+**>**|
-|Reverse sequence|**Track Sel**+**<**|
-|Tap tempo|**Shift**+**Exit**|
-|Toggle metronome|**Tempo**+**Exit**|
-|Stutter/top of pattern|**Shift**+**Play** while playing|
-|Start/Stop current clip|**Clip**+**Sel** while playing|
-|Multi FX parameter select|**Multi FX**+**FX Prim**|
-|Multi FX parameter depth|**Multi FX**+**FX Depth**|
-|View knob value|**Shift**+**C1**-**C4**|
-|Play entire row of clips|**[CLIP]**+**[STEP]**|v1.2|
-
 
 ## Scene shortcuts
 |Action|Shortcut|Version|
