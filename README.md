@@ -40,7 +40,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To edit the total effect Delay|**[SHIFT]**+**[DELAY]**|v1.0|
 |To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
-|To access the clip setting screen| In the home screen, select a clip and:**[SHIFT]**+**[CLIP]** (Below the C2 knob)|v1.0|
+|To access the clip setting screen| In the home screen, select a clip and:**[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
 |To access the clip sequence setting screen| In the home screen, select a clip and:**[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 
 ## Adjusting the Mix Sound
