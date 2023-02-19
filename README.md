@@ -40,8 +40,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To edit PAD MODE “SCATTER”|**[SHIFT]**+**PAD MODE [SCATTER]**|v1.0|
 |To edit the total effect Reverb|**[SHIFT]**+**[REVERB]**|v1.0|
 |To edit the total effect Delay|**[SHIFT]**+**[DELAY]**|v1.0|
-|To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
-|To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
+|<a name="MFXES"></a>To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
+|<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -80,17 +80,18 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
 
 ## Controller Values and Parameter Editing
-|Action|Shortcut|Version|
-|-----------------------------------|-----------------------------------|-----------------------------------|
-|To specify the parameter operated by the total effect knobs| Hold down the **[REVERB]**, **[DELAY]**, or **[MULTI]** button that you want to assign, and Turn the **[FX PRM]** or **[FX DEPTH]** knob.|v1.0
-|To view the value of a knob|Hold down the **[SHIFT]** button and Move the knob|v1.0|
-|To change the parameter value more greatly|Hold down the **[SHIFT]** button and Turn the **[C1]** **[C2]** **[C3]** **[C4]** knob or the **[VALUE]** knob.|v1.0|
-|To adjust the pad velocity curve|Hold down the **PAD MODE [NOTE]** button and Turn the **[VALUE]** knob.|v1.0|
-|To specify tap tempo|Hold down the **[SHIFT]** knob and Press the **[ENTER]** button three or more times.|v1.0|
-|To clear the Scatter pad parameters|When in **[SCATTER]** mode, Hold down the **[CLEAR]** button and Press a pad.|v1.0|
-|To clear the Scatter Step parameters|When in **[SCATTER]** mode, Hold down the **[CLEAR]** button and Press the **[STEP]** button.|v1.0|
-|To jump between effect type categories|When the MFX EDIT screen is displayed Hold down the **[SHIFT]** button and turn the **[C2]** knob.|v1.0|
-|To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|While the TOTAL COMP EDIT screen is displayed Hold down the **[SHIFT]** button and use the **CURSOR [UP] or [DOWN]** buttons.|v1.0|
+|Action|Mode|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|To specify the parameter operated by the total effect knobs|--|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX PRM]** knob|v1.0|
+|To specify the depth operated by the total effect knobs|--|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX DEPTH]** knob|v1.0|
+|To view the value of a knob|--|**[SHIFT]**+Any knob (Note below exceptions)|v1.0|
+|To change the parameter value more greatly|--|**[SHIFT]**+**[C1]** / **[C2]** / **[C3]** / **[C4]** / **[VALUE]** knob|v1.0|
+|To adjust the pad velocity curve|--|**PAD MODE [NOTE]**+**[VALUE]** knob.|v1.0|
+|To specify tap tempo|--|**[SHIFT]**+**[ENTER]** button three or more times.|v1.0|
+|To clear the Scatter pad parameters|**[SCATTER]** mode|**[CLEAR]**+**Pad**|v1.0|
+|To clear the Scatter Step parameters|**[SCATTER]** mode|**[CLEAR]**+**[STEP]**|v1.0|
+|To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
+|To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
 
 
 
