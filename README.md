@@ -85,6 +85,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Temporarily set RANDOM Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [>]**|v1.1|
 |Temporarily set REVERSE Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [<]**|v1.1|
 |Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[TEMPO]**|v1.1|
+|Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
+|Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -131,7 +133,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Reverse sequence|**Track Sel**+**<**|
 |Tap tempo|**Shift**+**Exit**|
 |Toggle metronome|**Tempo**+**Exit**|
-|Toggle arpeggiator|Long press **Note**|
 |Stutter/top of pattern|**Shift**+**Play** while playing|
 |Start/Stop current clip|**Clip**+**Sel** while playing|
 |Multi FX parameter select|**Multi FX**+**FX Prim**|
