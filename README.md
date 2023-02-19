@@ -29,6 +29,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the MOTION ERASE screen|**[SHIFT]**+**MOTION [ON]**|v1.0|
 |To access the CLIP SETTINGS screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
 |<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
+|Chord Designer Screen|**[ENTER]** from the [Chord Edit Screen](#CES)|v1.7|
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
 |To recall SCENE 5|**[SHIFT]**+**SCENE [1]**|v1.0|
 |To recall SCENE 6|**[SHIFT]**+**SCENE [2]**|v1.0|
@@ -44,7 +45,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
 |<a name="CES"></a>Access the CHORD EDIT screen|**[SHIFT]**+**[CHORD]**|v1.0|
-|Chord Designer Screen|**[ENTER]**|[Chord Edit Screen](#CES)|
+|MULTITRACK Pad Mode|**[NOTE]**+**CURSOR [>]**|v1.8|
+|SINGLETRACK Pad Mode|**[NOTE]**+**CURSOR [<]**|v1.8|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -122,6 +124,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
 |Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
+|Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
+|Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
 
 ## Scene shortcuts
 |Action|Shortcut|Version|
