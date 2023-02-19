@@ -51,6 +51,11 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To adjust the delay send of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C3]** knob.|v.1.0|
 |To adjust the reverb send of the sound | Hold down the **[SEL]** button of the corresponding track and: Turn the **[C4]** knob.|v.1.0|
 
+## MOTION
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|To delete a knob’s motion|Hold down the **MOTION [ON]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
+|To punch-in motion|Hold down the **MOTION [REC]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
 
 
 ## Sequence editing shortcuts
