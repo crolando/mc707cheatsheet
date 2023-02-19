@@ -103,24 +103,19 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## Sequence editing shortcuts
 |Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Copy/Paste Step|Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**|
-|Delete Step|**Shift**+**Project**+**Pad**|
-|Pad edit|**Shift**+**Note**|
-|Duplicate measure|**Seq**+**>**|
-|Halve measure|**Seq**+**<**|
-|Add drum substep|**Seq**+**Pad**|
+|Copy/Paste Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy, **[FUNC]**+**CURSOR [DOWN]** to paste.
+|Duplicate measure|**[FUNC]**+**CURSOR [>]**|
+|Halve measure|**[FUNC]**+**CURSOR [<]**|
 |Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
-|Add low velocity drum hit|**Track Sel**+**Pad**|
-|Add low velocity drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
-|Clear clip|**Shift**+**Project**+**Clip**|
-|Edit measure length|**Shift**+**>** or **Shift**+**<**|
-|Auto-advance mode (tone track only)|**Pad**, **Record** + **Pad** of 1st step|
-|Note edit|**Seq**, **Pad**, **C1**-**C4** to change values|
-|Note edit alternative|**Seq**, **Pad**, hold **Sound** or **Filter** or **Mod** or **FX**, **Value** to change value.|
-|First/last step mode|**Shift**+**Seq**|
-|Cancel first/last step|**Shit**+**Project** while in first/last step mode|
-|Toggle notes/chords|Press twice **Note**|
-|Chord designer|In chord mode, press **Shift**+**Filter**|
+|Add 50% probability drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|
+|Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|
+|Clear clip in selected row|**[CLEAR]**+**TRACK[SEL]**|
+|Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|
+|Note edit|**[STEP]**|**[NOTE]** mode|
+|Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
+|First/last step mode|**[SHIFT]**+**MOTION [REC]**|
+|Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
+|Chord designer|**[ENTER]**|Chord Edit Mode|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
 
 
