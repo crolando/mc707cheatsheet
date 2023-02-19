@@ -43,6 +43,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |<a name="MFXES"></a>To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
+|<a name="CES"></a>Access the CHORD EDIT screen|**[SHIFT]**+**[CHORD]**|v1.0|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -103,7 +104,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## Sequence editing shortcuts
 |Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Copy/Paste Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy, **[FUNC]**+**CURSOR [DOWN]** to paste.
+|Copy/Paste Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy, **[FUNC]**+**CURSOR [DOWN]** to paste.|**[NOTE]** mode|
 |Duplicate measure|**[FUNC]**+**CURSOR [>]**|
 |Halve measure|**[FUNC]**+**CURSOR [<]**|
 |Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
@@ -115,7 +116,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
 |Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
-|Chord designer|**[ENTER]**|Chord Edit Mode|
+|Chord designer|**[ENTER]**|[Chord Edit Screen](#CES)|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
 
 
