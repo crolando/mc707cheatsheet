@@ -148,6 +148,12 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Continuously assign the resulting sound sliced using the sampler to the pads|**[NOTE]**+**[ENTER]** (Press repeatedly)|v1.8|
 
+## Copy Paste
+|Action|Object|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|Copy|Drum Kit Pad Contents|**[FUNC]**+**CURSOR [UP]**|v1.5|
+|Paste|Drum Kit Pads Contents|**[FUNC]**+**CURSOR [DOWN]**|v1.5|
+
 # Cheat Sheet - Workflows
 
 
