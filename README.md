@@ -31,6 +31,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 |Scene Chain Screen|In **[MUTE]** Mode, **[SHIFT]**+**[STEP]**|v1.71|
 |Chord Designer Screen|**[ENTER]** from the [Chord Edit Screen](#CES)|v1.7|
+|Random Tone Designer Screen|**[SOUND]**, Cursor down to RANDOM + **[ENTER]**|v1.6|
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
 |To recall SCENE 5|**[SHIFT]**+**SCENE [1]**|v1.0|
 |To recall SCENE 6|**[SHIFT]**+**SCENE [2]**|v1.0|
