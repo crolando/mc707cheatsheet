@@ -79,10 +79,10 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To start/stop each track|--|**PAD MODE [CLIP]**+**TRACK [SEL]**|v1.0|
 |To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
-|To transpose the sequence|**[NOTE]**+**Pad**|v1.8|
-|Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASUERE [>]**|v1.1|
-|Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASUERE [<]**|v1.1|
-|Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[TEMPO]**|v1.1|
+|To transpose the sequence|--|**[NOTE]**+**Pad**|v1.8|
+|Temporarily set RANDOM Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [>]**|v1.1|
+|Temporarily set REVERSE Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [<]**|v1.1|
+|Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[TEMPO]**|v1.1|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
