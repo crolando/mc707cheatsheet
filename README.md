@@ -27,6 +27,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the input/output and recording settings screen|**[SHIFT]**+**[INPUT]**|v1.0|
 |To access the project save screen|**[SHIFT]**+**[FUNC]**|v1.0|
 |To access the MOTION ERASE screen|**[SHIFT]**+**MOTION [ON]**|v1.0|
+|To access the CLIP SETTINGS screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
+|<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
 |To recall SCENE 5|**[SHIFT]**+**SCENE [1]**|v1.0|
 |To recall SCENE 6|**[SHIFT]**+**SCENE [2]**|v1.0|
@@ -40,33 +42,31 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To edit the total effect Delay|**[SHIFT]**+**[DELAY]**|v1.0|
 |To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
-|To access the clip setting screen| In the home screen, select a clip and:**[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
-|<a name="CSS"></a>To access the clip sequence setting screen| In the home screen, select a clip and:**[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
-|To adjust the volume of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C1]** knob.|v.1.0|
-|To adjust the pan of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C2]** knob.|v.1.0|
-|To adjust the delay send of the sound| Hold down the **[SEL]** button of the corresponding track and: Turn the **[C3]** knob.|v.1.0|
-|To adjust the reverb send of the sound | Hold down the **[SEL]** button of the corresponding track and: Turn the **[C4]** knob.|v.1.0|
+|To adjust the volume of the sound|**TRACK [SEL]**+**[C1]** knob.|v.1.0|
+|To adjust the pan of the sound|**TRACK [SEL]**+**[C2]** knob.|v.1.0|
+|To adjust the delay send of the sound|**TRACK [SEL]**+**[C3]** knob.|v.1.0|
+|To adjust the reverb send of the sound |**TRACK [SEL]**+**[C4]** knob.|v.1.0|
 
 ## MOTION
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
-|To delete a knob’s motion|Hold down the **MOTION [ON]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
-|To punch-in motion|Hold down the **MOTION [REC]** button and: Operate the **[FILTER]** **[MOD]** **[FX]** knob of the corresponding track.|v.1.0|
+|To delete a knob’s motion|**MOTION [ON]**+**TRACK [FILTER]** / **[MOD]** / **[FX]** knobs.|v.1.0|
+|To punch-in motion|**MOTION [REC]**+**TRACK [FILTER]** / **[MOD]** / **[FX]** knobs.|v.1.0|
 
 ## Phrase Editing
-|Action|Shortcut|Version|
-|-----------------------------------|-----------------------------------|-----------------------------------|
-|To step-record (Tone track only)|When in **[NOTE]** mode, Hold down the **[REC]** button and press the **[STEP]** button.|v.1.0|
-|To input Motion in a step|When in **[NOTE]** mode, Hold down the **[STEP]** button, and operate the **[FILTER]** **[MOD]** **[FX]** knobs of the corresponding track.|v.1.0|
-|To mute the drum part (for each clip)|When in **[NOTE]** mode, Hold down the **PAD MODE [MUTE]** button, and press a pad.|v1.0|
-|To enter weak drum beats|When in **[NOTE]** mode, Hold down the pad, and press the **[STEP]** button.|v1.0|
-|To clear the phrase from a clip|Hold down the **[CLEAR]** button, and Press the **[SEL]** button of the corresponding track.|v1.0|
-|To clear the phrase from a drum part|Hold down the **[CLEAR]** button, and Press a pad.|v1.0|
-|To duplicate a phrase|When the [clip sequence setting screen](#CSS) screen displayed, Hold down the **[FUNC]** button and press the **MEASURE [>]** button.|v1.0|
+|Action|Mode|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|To step-record (Tone track only)|**[NOTE]** mode|**[REC]**+**[STEP]**|v.1.0|
+|To input Motion in a step|**[NOTE]** mode|**[STEP]**+**TRACK [FILTER]** / **[MOD]** / **[FX]**|v.1.0|
+|To mute the drum part (for each clip)|**[NOTE]** mode|**PAD MODE [MUTE]**+**Pad**|v1.0|
+|To enter weak drum beats|**[NOTE]** mode|**PAD**+**[STEP]**|v1.0|
+|To clear the phrase from a clip|--|**[CLEAR]**+**TRACK [SEL]**|v1.0|
+|To clear the phrase from a drum part|--|**[CLEAR]**+**Pad**|v1.0|
+|To duplicate a phrase|**[Clip Sequence Setting Screen](#CSS)**|**[FUNC]**+**MEASURE [>]**|v1.0|
 
 ## Performance
 |Action|Shortcut|Version|
