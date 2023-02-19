@@ -111,7 +111,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Add 50% probability drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|
 |Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|
 |Clear clip in selected row|**[CLEAR]**+**TRACK[SEL]**|
-|Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|
+|Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
 |Note edit|**[STEP]**|**[NOTE]** mode|
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
