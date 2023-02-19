@@ -69,15 +69,15 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To duplicate a phrase|**[Clip Sequence Setting Screen](#CSS)**|**[FUNC]**+**MEASURE [>]**|v1.0|
 
 ## Performance
-|Action|Shortcut|Version|
-|-----------------------------------|-----------------------------------|-----------------------------------|
-|To audition a track in your headphones (CUE)|When in **MUTE** mode Hold down the **PAD MODE [MUTE]** button and press a pad.|v1.0|
-|To mute a track|Hold down the **PAD MODE [MUTE]** button and Press the **[SEL]** button of the corresponding track|v1.0|
-|To mute a drum part (for each track)|Hold down the **[SEL]** button of the corresponding track, and press a pad.|v1.0|
-|To switch parts without sounding the drums|Hold down the **PAD MODE [NOTE]** button and and press a pad.|v1.0|
-|To start/stop each track|Hold down the **PAD MODE [CLIP]** button and Press the **[SEL]** button of the corresponding track.|v1.0|
-|To forcibly return to the beginning of the pattern during pattern playback|During playback, Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
-|To silence sound that continues after stopping|While stopped Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
+|Action|Mode|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|To audition a track in your headphones (CUE)|**MUTE** mode|**PAD MODE [MUTE]**+**Pad**|v1.0|
+|To mute a track|--|**PAD MODE [MUTE]**+**TRACK [SEL]**|v1.0|
+|To mute a drum part (for each track)|--|**TRACK [SEL]**+**Pad**|v1.0|
+|To switch parts without sounding the drums|--|**PAD MODE [NOTE]**+**Pad**|v1.0|
+|To start/stop each track|--|**PAD MODE [CLIP]**+**TRACK [SEL]**|v1.0|
+|To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
+|To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
 
 ## Controller Values and Parameter Editing
 |Action|Shortcut|Version|
