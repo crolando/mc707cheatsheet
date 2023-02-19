@@ -79,6 +79,21 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To forcibly return to the beginning of the pattern during pattern playback|During playback, Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
 |To silence sound that continues after stopping|While stopped Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
 
+## Controller Values and Parameter Editing
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|To specify the parameter operated by the total effect knobs| Hold down the **[REVERB]**, **[DELAY]**, or **[MULTI]** button that you want to assign, and Turn the **[FX PRM]** or **[FX DEPTH]** knob.|v1.0
+|To view the value of a knob|Hold down the **[SHIFT]** button and Move the knob|v1.0|
+|To change the parameter value more greatly|Hold down the **[SHIFT]** button and Turn the **[C1]** **[C2]** **[C3]** **[C4]** knob or the **[VALUE]** knob.|v1.0|
+|To adjust the pad velocity curve|Hold down the **PAD MODE [NOTE]** button and Turn the **[VALUE]** knob.|v1.0|
+|To specify tap tempo|Hold down the **[SHIFT]** knob and Press the **[ENTER]** button three or more times.|v1.0|
+|To clear the Scatter pad parameters|When in **[SCATTER]** mode, Hold down the **[CLEAR]** button and Press a pad.|v1.0|
+|To clear the Scatter Step parameters|When in **[SCATTER]** mode, Hold down the **[CLEAR]** button and Press the **[STEP]** button.|v1.0|
+|To jump between effect type categories|When the MFX EDIT screen is displayed Hold down the **[SHIFT]** button and turn the **[C2]** knob.|v1.0|
+|To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|While the TOTAL COMP EDIT screen is displayed Hold down the **[SHIFT]** button and use the **CURSOR [UP] or [DOWN]** buttons.|v1.0|
+
+
+
 ## Sequence editing shortcuts
 
 |Action|Shortcut|
