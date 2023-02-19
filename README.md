@@ -42,6 +42,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To edit the total effect Delay|**[SHIFT]**+**[DELAY]**|v1.0|
 |<a name="MFXES"></a>To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
+|Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
 
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
@@ -93,6 +94,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To clear the Scatter Step parameters|**[SCATTER]** mode|**[CLEAR]**+**[STEP]**|v1.0|
 |To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
 |To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
+|Adjust the Pad Gain|--|**[NOTE]**+**CURSOR [UP] / [DOWN]**|v1.2|
 
 ## Sequence editing shortcuts
 |Action|Shortcut|
@@ -115,7 +117,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Chord designer|In chord mode, press **Shift**+**Filter**|
 
 ## Playback shortcuts
-|Action|Shortcut|Version
+|Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Force start|**Shift**+**Play**|
 |Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Track Sel**+**Pad** (for track)|
@@ -131,6 +133,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Multi FX parameter select|**Multi FX**+**FX Prim**|
 |Multi FX parameter depth|**Multi FX**+**FX Depth**|
 |View knob value|**Shift**+**C1**-**C4**|
+|Play entire row of clips|**[CLIP]**+**[STEP]**|v1.2|
 
 
 ## Scene shortcuts
@@ -147,12 +150,19 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Continuously assign the resulting sound sliced using the sampler to the pads|**[NOTE]**+**[ENTER]** (Press repeatedly)|v1.8|
+|Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
 
 ## Copy Paste
 |Action|Object|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |Copy|Drum Kit Pad Contents|**[FUNC]**+**CURSOR [UP]**|v1.5|
 |Paste|Drum Kit Pads Contents|**[FUNC]**+**CURSOR [DOWN]**|v1.5|
+
+## Project Management
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|Skip the confirmation when overwriting a project|In PROJECT save screen: **[FUNC]**+**[ENTER]**|v1.2|
+
 
 # Cheat Sheet - Workflows
 
