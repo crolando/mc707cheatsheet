@@ -90,8 +90,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[TEMPO]**|v1.1|
 |Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
 |Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
-|Transpose tone track|**Note**+**Pad**|v1.8
-|Play entire row of clips|**[CLIP]**+**[STEP]**|v1.2|
+|Play entire row of clips|--|**[CLIP]**+**[STEP]**|v1.2|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
