@@ -126,10 +126,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## Scene shortcuts
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
-|Store Scene|**Clip**+**Pad1**-**Pad8**|
-|Recall Scene|**Clip**+ long press **Pad1**-**Pad8**|
-|Scene selection|Long press **Clip**|
-|Scene chain|**Shift**+**Pad**|
+|Store Custom Scene|Long-Press **SCENE [#]** button|v1.0
 |Recall the first scene|**[FUNC]**+**[START/STOP]**|v1.7|
 
 
