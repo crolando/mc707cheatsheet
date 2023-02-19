@@ -68,6 +68,17 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To clear the phrase from a drum part|Hold down the **[CLEAR]** button, and Press a pad.|v1.0|
 |To duplicate a phrase|When the [clip sequence setting screen](#CSS) screen displayed, Hold down the **[FUNC]** button and press the **MEASURE [>]** button.|v1.0|
 
+## Performance
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|To audition a track in your headphones (CUE)|When in **MUTE** mode Hold down the **PAD MODE [MUTE]** button and press a pad.|v1.0|
+|To mute a track|Hold down the **PAD MODE [MUTE]** button and Press the **[SEL]** button of the corresponding track|v1.0|
+|To mute a drum part (for each track)|Hold down the **[SEL]** button of the corresponding track, and press a pad.|v1.0|
+|To switch parts without sounding the drums|Hold down the **PAD MODE [NOTE]** button and and press a pad.|v1.0|
+|To start/stop each track|Hold down the **PAD MODE [CLIP]** button and Press the **[SEL]** button of the corresponding track.|v1.0|
+|To forcibly return to the beginning of the pattern during pattern playback|During playback, Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
+|To silence sound that continues after stopping|While stopped Hold down the [SHIFT] button and press the [START/STOP] button|v1.0|
+
 ## Sequence editing shortcuts
 
 |Action|Shortcut|
