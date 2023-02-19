@@ -29,6 +29,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the MOTION ERASE screen|**[SHIFT]**+**MOTION [ON]**|v1.0|
 |To access the CLIP SETTINGS screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
 |<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
+|Scene Chain Screen|In **[MUTE]** Mode, **[SHIFT]**+**[STEP]**|v1.71|
 |Chord Designer Screen|**[ENTER]** from the [Chord Edit Screen](#CES)|v1.7|
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
 |To recall SCENE 5|**[SHIFT]**+**SCENE [1]**|v1.0|
@@ -130,7 +131,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## Scene shortcuts
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
-|Store Custom Scene|Long-Press **SCENE [#]** button|v1.0
+|Store Custom Scene|Long-Press **SCENE [#]** button|v1.0|
 |Recall the first scene|**[FUNC]**+**[START/STOP]**|v1.7|
 
 
