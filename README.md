@@ -42,8 +42,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |<a name="MFXES"></a>To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
-|MULTITRACK Pad Mode|**[NOTE]**+**CURSOR [>]**|v1.8|
-|SINGLETRACK Pad Mode|**[NOTE]**+**CURSOR [<]**|v1.8|
+|MULTITRACK Pad Mode|**[NOTE]**+**CURSOR [RIGHT]** |v1.8|
+|SINGLETRACK Pad Mode|**[NOTE]**+**CURSOR [LEFT]**|v1.8|
 
 ## First/Last Step Mode
 |Action|Shortcut|Version|
@@ -124,8 +124,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |Copy Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy|**[NOTE]** mode|v1.02|
 |Paste Step|Select **[STEP]** to paste, **[FUNC]**+**CURSOR [DOWN]** to paste.|**[NOTE]** mode|v1.02|
-|Duplicate measure|**[FUNC]**+**CURSOR [>]**|
-|Halve measure|**[FUNC]**+**CURSOR [<]**|
+|Duplicate measure|**[FUNC]**+**MEASURE [>]**|
+|Halve measure|**[FUNC]**+**MEASURE [<]**|
 |Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
 |Add 50% probability drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|v1.02|
 |Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|v1.02|
