@@ -104,7 +104,7 @@ Note: these modify the SOUND object of the selected clip
 |Set repeat frequency for single drum part|**STEP [1] - [6]**|**PAD MODE [CHORD]** & Drum Track Selected|v.1.3|
 |Set repeat frequency for all drum parts|**PAD MODE [CHORD]**+**STEP [1]-[6]**|Drum Track Selected|v.1.3|
 |Shift the pad octave in a non-Chromatic scale|Hold the **[NOTE]** + **[OCT-]** or **[OCT+]** pad|**[NOTE]** Mode|v1.2|
-|Play the selected steps as a loop|Hold track **[SEL]** + press & release **[STEP]** buttons|--|v1.02|
+|Play the selected steps as a loop|Hold track **[SEL]** + press & release **[STEP]** buttons|**[NOTE]** Mode|v1.02|
 
 ## Controller Values and Parameter Editing
 |Action|Shortcut|Mode|Version|
