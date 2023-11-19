@@ -142,8 +142,8 @@ Note: these modify the SOUND object of the selected clip
 |Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
-|Change all events in a step|**[FUNC]** + Turn **[C1]** - **[C4]**|v1.02|
-|Set START value to "0"|**[CLEAR]** + Turn **[C3]**|v1.02|
+|Change all events in a step|**[FUNC]** + Turn **[C1]** - **[C4]**|Tone Track Step Edit mode|v1.02|
+|Set START value to "0"|**[CLEAR]** + Turn **[C3]**|--|v1.02|
 
 ## Scene shortcuts
 Note: you can call a row of clips using **[CLIP]** + **[STEP]** and this is independent from the scene calling system.
