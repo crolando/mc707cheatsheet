@@ -143,6 +143,7 @@ Note: these modify the SOUND object of the selected clip
 |Set START value to "0"|**[CLEAR]** + Turn **[C3]**|v1.02|
 
 ## Scene shortcuts
+Note: you can call a row of clips using **[CLIP]** + **[STEP]** and this is independent from the scene calling system.
 In my opinion these are all kind of clunky, so pick your poison and practice them before you perform.
 For full documentation see https://static.roland.com/assets/media/pdf/MC-707_update_eng08_W.pdf on page 11. 
 ### Common.
