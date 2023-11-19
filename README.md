@@ -94,8 +94,8 @@ Note: these modify the SOUND object of the selected clip
 |To forcibly return to the beginning of the pattern|**[SHIFT]**+**[START/STOP]**|Playing|v1.0|
 |To silence sound that continues after stopping|**[SHIFT]**+**[START/STOP]**|Stopped|v1.0|
 |To transpose the sequence|**[NOTE]**+**Pad**|Tone Track selected|v1.8|
-|Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASUERE [>]**|--|v1.02|
-|Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASUERE [<]**|--|v1.02|
+|Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASURE [>]**|--|v1.02|
+|Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASURE [<]**|--|v1.02|
 |Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[MUTE]**|--|v1.02|
 |Turn on Arpeggiator|**PAD MODE [NOTE]**|**PAD MODE [NOTE]**|v1.6|
 |Turn on Arpeggiator|**PAD MODE [CHORD]**|**PAD MODE [CHORD]**|v1.6|
