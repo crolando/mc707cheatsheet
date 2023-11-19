@@ -56,6 +56,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 
 
 ## Adjusting the Mix Sound
+Note: these modify the SOUND object of the selected clip
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |To adjust the volume of the sound|**TRACK [SEL]**+**[C1]** knob.|v.1.0|
