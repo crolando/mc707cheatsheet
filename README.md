@@ -138,10 +138,10 @@ Note: these modify the SOUND object of the selected clip
 |Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
 |Note edit|**[STEP]**|**[NOTE]** mode in Tone Track|
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode in Tone Track|
+|Motion Drawing|**[FUNC]**|Tone Trak Step Edit mode, on MOTION page|v1.3|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
-|Motion Drawing| **[FUNC]**|Step Edit mode|v1.3|
 |Change all events in a step|**[FUNC]** + Turn **[C1]** - **[C4]**|v1.02|
 |Set START value to "0"|**[CLEAR]** + Turn **[C3]**|v1.02|
 
