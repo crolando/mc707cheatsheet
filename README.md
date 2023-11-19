@@ -33,10 +33,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Chord Designer Screen|**[ENTER]** from the [Chord Edit Screen](#CES)|v1.7|
 |Random Tone Designer Screen|**[SOUND]**, Cursor down to RANDOM + **[ENTER]**|v1.6|
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
-|To recall SCENE 5|**[SHIFT]**+**SCENE [1]**|v1.0|
-|To recall SCENE 6|**[SHIFT]**+**SCENE [2]**|v1.0|
-|To recall SCENE 7|**[SHIFT]**+**SCENE [3]**|v1.0|
-|To recall SCENE 8|**[SHIFT]**+**SCENE [4]**|v1.0|
 |To edit PAD MODE “CLIP”|**[SHIFT]**+**PAD MODE [CLIP]**|v1.0|
 |To edit PAD MODE “NOTE”|**[SHIFT]**+**PAD MODE [NOTE]**|v1.0|
 |To edit PAD MODE “CHORD”|**[SHIFT]**+**PAD MODE [CHORD]**|v1.0|
