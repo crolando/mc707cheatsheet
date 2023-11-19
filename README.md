@@ -35,14 +35,13 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To switch to LAST STEP mode|**[SHIFT]**+**MOTION [REC]**|v1.0|
 |To edit PAD MODE “CLIP”|**[SHIFT]**+**PAD MODE [CLIP]**|v1.0|
 |To edit PAD MODE “NOTE”|**[SHIFT]**+**PAD MODE [NOTE]**|v1.0|
-|To edit PAD MODE “CHORD”|**[SHIFT]**+**PAD MODE [CHORD]**|v1.0|
+|<a name="CES"></a>Access the CHORD EDIT screen|**[SHIFT]**+**[CHORD]**|v1.0|
 |To edit PAD MODE “SCATTER”|**[SHIFT]**+**PAD MODE [SCATTER]**|v1.0|
 |To edit the total effect Reverb|**[SHIFT]**+**[REVERB]**|v1.0|
 |To edit the total effect Delay|**[SHIFT]**+**[DELAY]**|v1.0|
 |<a name="MFXES"></a>To edit the total effect Multi-Effect|**[SHIFT]**+**[MULTI]**. Select the MFX tab.|v1.0|
 |<a name="TECES"></a>To edit the total effect Comp/EQ|**[SHIFT]**+**[MULTI]**. Select the Comp tab or EQ tab.|v1.0|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
-|<a name="CES"></a>Access the CHORD EDIT screen|**[SHIFT]**+**[CHORD]**|v1.0|
 |MULTITRACK Pad Mode|**[NOTE]**+**CURSOR [>]**|v1.8|
 |SINGLETRACK Pad Mode|**[NOTE]**+**CURSOR [<]**|v1.8|
 
