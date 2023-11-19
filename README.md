@@ -87,39 +87,39 @@ Note: these modify the SOUND object of the selected clip
 |Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |To audition a track in your headphones (CUE)|**PAD MODE [MUTE]**+**Pad**|**MUTE** mode|v1.0|
-|To mute a track|--|**PAD MODE [MUTE]**+**TRACK [SEL]**|v1.0|
-|To mute a drum part (for each track)|--|**TRACK [SEL]**+**Pad**|v1.0|
-|To switch parts without sounding the drums|--|**PAD MODE [NOTE]**+**Pad**|v1.0|
-|To start/stop each track|--|**PAD MODE [CLIP]**+**TRACK [SEL]**|v1.0|
-|To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
-|To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
-|To transpose the sequence|--|**[NOTE]**+**Pad**|v1.8|
-|Temporarily set RANDOM Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [>]**|v1.02|
-|Temporarily set REVERSE Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [<]**|v1.02|
-|Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[MUTE]**|v1.02|
-|Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
-|Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
-|Play entire row of clips|--|**[CLIP]**+**[STEP]**|v1.2|
-|Repeat the drum note|--|**PAD MODE [CHORD]**|**Pad**|v.1.3|
-|Set drum note repeat frequency|--|**PAD MODE [CHORD]**|**STEP [1]-[6]** |v.1.3|
-|Shift the pad octave in a non-Chromatic scale|**[NOTE]** Mode|Hold the **[NOTE]** + **[OCT-]** or **[OCT+]** pad|v1.2|
-|Play the selected steps as a loop|--|Hold track **[SEL]** + press & release **[STEP]** buttons|v1.02|
+|To mute a track|**PAD MODE [MUTE]**+**TRACK [SEL]**|--|v1.0|
+|To mute a drum part (for each track)|**TRACK [SEL]**+**Pad**|--|v1.0|
+|To switch parts without sounding the drums|**PAD MODE [NOTE]**+**Pad**|--|v1.0|
+|To start/stop each track|**PAD MODE [CLIP]**+**TRACK [SEL]**|--|v1.0|
+|To forcibly return to the beginning of the pattern|**[SHIFT]**+**[START/STOP]**|Playing|v1.0|
+|To silence sound that continues after stopping|**[SHIFT]**+**[START/STOP]**|Stopped|v1.0|
+|To transpose the sequence|**[NOTE]**+**Pad**|--|v1.8|
+|Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASUERE [>]**|--|v1.02|
+|Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASUERE [<]**|--|v1.02|
+|Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[MUTE]**|--|v1.02|
+|Turn on Arpeggiator|**[NOTE]**|Note Edit Screen|v1.6|
+|Turn on Arpeggiator|**[CHORD]**|Chord Edit Screen|v1.6|
+|Play entire row of clips|**[CLIP]**+**[STEP]**|--|v1.2|
+|Repeat the drum note|**PAD MODE [CHORD]**|**Pad**|--|v.1.3|
+|Set drum note repeat frequency|**PAD MODE [CHORD]**|**STEP [1]-[6]**|--|v.1.3|
+|Shift the pad octave in a non-Chromatic scale|Hold the **[NOTE]** + **[OCT-]** or **[OCT+]** pad|**[NOTE]** Mode|v1.2|
+|Play the selected steps as a loop|Hold track **[SEL]** + press & release **[STEP]** buttons|--|v1.02|
 
 ## Controller Values and Parameter Editing
-|Action|Mode|Shortcut|Version|
+|Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|To specify the parameter operated by the total effect knobs|--|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX PRM]** knob|v1.0|
-|To specify the depth operated by the total effect knobs|--|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX DEPTH]** knob|v1.0|
-|To view the value of a knob|--|**[SHIFT]**+Any knob (Note below exceptions)|v1.0|
-|To change the parameter value more greatly|--|**[SHIFT]**+**[C1]** / **[C2]** / **[C3]** / **[C4]** / **[VALUE]** knob|v1.0|
-|To adjust the pad velocity curve|--|**PAD MODE [NOTE]**+**[VALUE]** knob.|v1.0|
-|To specify tap tempo|--|**[SHIFT]**+**[ENTER]** button three or more times.|v1.0|
-|To clear the Scatter pad parameters|**[SCATTER]** mode|**[CLEAR]**+**Pad**|v1.0|
-|To clear the Scatter Step parameters|**[SCATTER]** mode|**[CLEAR]**+**[STEP]**|v1.0|
-|To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
-|To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
-|Adjust the Pad Gain|--|**[NOTE]**+**CURSOR [UP] / [DOWN]**|v1.2|
-|Initialize the parameter assigned to a knob|--|**[SHIFT]**+**[CLEAR]**+**[FILTER]** / **[MOD]** / **[FX]** knob|v1.02|
+|To specify the parameter operated by the total effect knobs|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX PRM]** knob|--|v1.0|
+|To specify the depth operated by the total effect knobs|**[REVERB]** / **[DELAY]** / **[MULTI]**+**[FX DEPTH]** knob|--|v1.0|
+|To view the value of a knob|**[SHIFT]**+Any knob (Note below exceptions)|--|v1.0|
+|To change the parameter value more greatly|**[SHIFT]**+**[C1]** / **[C2]** / **[C3]** / **[C4]** / **[VALUE]** knob|--|v1.0|
+|To adjust the pad velocity curve|**PAD MODE [NOTE]**+**[VALUE]** knob.|--|v1.0|
+|To specify tap tempo|**[SHIFT]**+**[ENTER]** button three or more times.|--|v1.0|
+|To clear the Scatter pad parameters|**[CLEAR]**+**Pad**|**[SCATTER]** mode|v1.0|
+|To clear the Scatter Step parameters|**[CLEAR]**+**[STEP]**|**[SCATTER]** mode|v1.0|
+|To jump between effect type categories|**[SHIFT]**+**[C2]** knob.|[MFX EDIT screen](#MFXES)|v1.0|
+|To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|[TOTAL COMP EDIT screen](#TECES)|v1.0|
+|Adjust the Pad Gain|**[NOTE]**+**CURSOR [UP] / [DOWN]**|--|v1.2|
+|Initialize the parameter assigned to a knob|**[SHIFT]**+**[CLEAR]**+**[FILTER]** / **[MOD]** / **[FX]** knob|--|v1.02|
 
 ## Sequence editing shortcuts
 |Action|Shortcut|Mode|Version|
