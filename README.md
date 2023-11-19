@@ -27,6 +27,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the input/output and recording settings screen|**[SHIFT]**+**[INPUT]**|v1.0|
 |To access the project save screen|**[SHIFT]**+**[FUNC]**|v1.0|
 |To access the CLIP SETTINGS screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
+|Clip Chain Screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob), **[LEFT]**|v1.71|
 |<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 |Scene Chain Screen|In **[MUTE]** Mode, **[SHIFT]**+**[STEP]**|v1.71|
 |Chord Designer Screen|**[ENTER]** from the [Chord Edit Screen](#CES)|v1.7|
