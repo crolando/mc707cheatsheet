@@ -127,8 +127,8 @@ Note: these modify the SOUND object of the selected clip
 ## Sequence editing shortcuts
 |Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Copy Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy|**[NOTE]** mode|v1.02|
-|Paste Step|Select **[STEP]** to paste, **[FUNC]**+**CURSOR [DOWN]** to paste.|**[NOTE]** mode|v1.02|
+|Copy Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy|Tone track Step Edit mode (shift + step)|v1.02|
+|Paste Step|Select **[STEP]** to paste, **[FUNC]**+**CURSOR [DOWN]** to paste.|Tone track Step Edit mode (shift + step)|v1.02|
 |Duplicate measure|**[FUNC]**+**MEASURE [>]**|
 |Halve measure|**[FUNC]**+**MEASURE [<]**|
 |Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
@@ -136,7 +136,7 @@ Note: these modify the SOUND object of the selected clip
 |Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|v1.02|
 |Clear clip in selected row|**[CLEAR]**+**TRACK[SEL]**|
 |Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
-|Note edit|**[STEP]**|**[NOTE]** mode|
+|Note edit|**[STEP]**|**[NOTE]** mode in Tone Track|
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
