@@ -144,9 +144,10 @@ Note: these modify the SOUND object of the selected clip
 
 ## Scene shortcuts
 Note: you can call a row of clips using **[CLIP]** + **[STEP]** and this is independent from the scene calling system.
-In my opinion these are all kind of clunky, so pick your poison and practice them before you perform.
+
+In my opinion the scene shortcuts are all kind of clunky, so pick your poison and practice them before you perform.
 For full documentation see https://static.roland.com/assets/media/pdf/MC-707_update_eng08_W.pdf on page 11. 
-### Common.
+### Common
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Recall the first scene|**[FUNC]**+**[START/STOP]**|v1.7|
