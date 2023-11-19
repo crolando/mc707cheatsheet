@@ -46,6 +46,16 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |MULTITRACK Pad Mode|**[NOTE]**+**CURSOR [>]**|v1.8|
 |SINGLETRACK Pad Mode|**[NOTE]**+**CURSOR [<]**|v1.8|
 
+## First/Last Step Mode
+|Action|Shortcut|Version|
+|-----------------------------------|-----------------------------------|-----------------------------------|
+|First/last step mode|**[SHIFT]**+**MOTION [REC]**|
+|Change measures|**MEASURE [<] - [>]**|
+|Set first step|**[STEP]**|
+|Set last step|**[SHIFT]** + **[STEP]**|
+|Disable first/last step function|**[CLEAR]**|First/Last Step Mode|
+
+
 ## Adjusting the Mix Sound
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
@@ -124,8 +134,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
 |Note edit|**[STEP]**|**[NOTE]** mode|
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
-|First/last step mode|**[SHIFT]**+**MOTION [REC]**|
-|Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
@@ -205,12 +213,6 @@ Start editing: Press **Seq**, then **Pad** to select the first step, then **Note
 ## Step recording drum track:
 
 Start editing: Press **Note**,**Pad** to select the drum part to edit, then **Seq**. Enable/disable steps for given drum part. Select drum part via **Value**.
-
-First/Last Step mode:
-
-Select last step: **Pad**
-
-Select first step: **Shift**+**Pad**
 
 Input a tie: In NOTE mode, **[FUNC]**+**[STEP]** (Added in Version 1.6)
 
