@@ -72,21 +72,21 @@ Note: these modify the SOUND object of the selected clip
 |To punch-in motion|**MOTION [REC]**+**TRACK [FILTER]** / **[MOD]** / **[FX]** knobs.|v.1.0|
 
 ## Phrase Editing
-|Action|Mode|Shortcut|Version|
+|Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|To step-record (Tone track only)|**[NOTE]** mode|**[REC]**+**[STEP]**|v.1.0|
-|To input Motion in a step|**[NOTE]** mode|**[STEP]**+**TRACK [FILTER]** / **[MOD]** / **[FX]**|v.1.0|
-|To mute the drum part (for each clip)|**[NOTE]** mode|**PAD MODE [MUTE]**+**Pad**|v1.0|
-|To enter weak drum beats|**[NOTE]** mode|**PAD**+**[STEP]**|v1.0|
-|To clear the phrase from a clip|--|**[CLEAR]**+**TRACK [SEL]**|v1.0|
-|To clear the phrase from a drum part|--|**[CLEAR]**+**Pad**|v1.0|
-|To duplicate a phrase|**[Clip Sequence Setting Screen](#CSS)**|**[FUNC]**+**MEASURE [>]**|v1.0|
+|To step-record (Tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|v.1.0|
+|To input Motion in a step|**[STEP]**+**TRACK [FILTER]** / **[MOD]** / **[FX]**|**[NOTE]** mode|v.1.0|
+|To mute the drum part (for each clip)|**PAD MODE [MUTE]**+**Pad**|**[NOTE]** mode|v1.0|
+|To enter weak drum beats|**PAD**+**[STEP]**|**[NOTE]** mode|v1.0|
+|To clear the phrase from a clip|**[CLEAR]**+**TRACK [SEL]**|--|v1.0|
+|To clear the phrase from a drum part|**[CLEAR]**+**Pad**|--|v1.0|
+|To duplicate a phrase|**[FUNC]**+**MEASURE [>]**|--|v1.0|
 
 
 ## Performance
-|Action|Mode|Shortcut|Version|
+|Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|To audition a track in your headphones (CUE)|**MUTE** mode|**PAD MODE [MUTE]**+**Pad**|v1.0|
+|To audition a track in your headphones (CUE)|**PAD MODE [MUTE]**+**Pad**|**MUTE** mode|v1.0|
 |To mute a track|--|**PAD MODE [MUTE]**+**TRACK [SEL]**|v1.0|
 |To mute a drum part (for each track)|--|**TRACK [SEL]**+**Pad**|v1.0|
 |To switch parts without sounding the drums|--|**PAD MODE [NOTE]**+**Pad**|v1.0|
