@@ -26,7 +26,6 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To access the master clock setting screen|**[SHIFT]**+**[TEMPO]**|v1.0|
 |To access the input/output and recording settings screen|**[SHIFT]**+**[INPUT]**|v1.0|
 |To access the project save screen|**[SHIFT]**+**[FUNC]**|v1.0|
-|To access the MOTION ERASE screen|**[SHIFT]**+**MOTION [ON]**|v1.0|
 |To access the CLIP SETTINGS screen|Select a clip and **[SHIFT]**+**[CLIP]** (Below the **[C2]** knob)|v1.0|
 |<a name="CSS"></a>To access the CLIP SEQUENCE SETTING screen|Select a clip and **[SHIFT]**+**MEASURE [<] or [>]**|v1.0|
 |Scene Chain Screen|In **[MUTE]** Mode, **[SHIFT]**+**[STEP]**|v1.71|
@@ -57,6 +56,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## MOTION
 |Action|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|
+|Erase clip motion|**[SHIFT]**+**MOTION [ON]**|v1.0|
 |To delete a knob’s motion|**MOTION [ON]**+**TRACK [FILTER]** / **[MOD]** / **[FX]** knobs.|v.1.0|
 |To punch-in motion|**MOTION [REC]**+**TRACK [FILTER]** / **[MOD]** / **[FX]** knobs.|v.1.0|
 
