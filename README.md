@@ -92,6 +92,8 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
 |Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
 |Play entire row of clips|--|**[CLIP]**+**[STEP]**|v1.2|
+|Repeat the drum note|--|**PAD MODE [CHORD]**|**Pad**|v.1.3|
+|Set drum note repeat frequency|--|**PAD MODE [CHORD]**|**STEP [1]-[6]** |v.1.3|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -127,6 +129,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
+|Motion Drawing| **[FUNC]**|Step Edit mode|v1.3|
 
 ## Scene shortcuts
 In my opinion these are all kind of clunky, so pick your poison and practice them before you perform.
@@ -171,6 +174,7 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Continuously assign the resulting sound sliced using the sampler to the pads|**[NOTE]**+**[ENTER]** (Press repeatedly)|v1.8|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
+|Delete the slice point|**[CLEAR]** + press the **[C2]** knob|v1.3|
 
 ## Copy Paste
 |Action|Object|Shortcut|Version|
