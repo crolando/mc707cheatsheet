@@ -52,7 +52,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |Change measures|**MEASURE [<] - [>]**|
 |Set first step|**[STEP]**|
 |Set last step|**[SHIFT]** + **[STEP]**|
-|Disable first/last step function|**[CLEAR]**|First/Last Step Mode|
+|Disable first/last step function|**[CLEAR]**||
 
 
 ## Adjusting the Mix Sound
