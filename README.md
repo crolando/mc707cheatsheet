@@ -137,7 +137,7 @@ Note: these modify the SOUND object of the selected clip
 |Clear clip in selected row|**[CLEAR]**+**TRACK[SEL]**|
 |Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
 |Note edit|**[STEP]**|**[NOTE]** mode in Tone Track|
-|Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
+|Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode in Tone Track|
 |Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
