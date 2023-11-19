@@ -88,8 +88,8 @@ Note: these modify the SOUND object of the selected clip
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |To audition a track in your headphones (CUE)|**PAD MODE [MUTE]**+**Pad**|**MUTE** mode|v1.0|
 |To mute a track|**PAD MODE [MUTE]**+**TRACK [SEL]**|--|v1.0|
-|To mute a drum part (for each track)|**TRACK [SEL]**+**Pad**|--|v1.0|
-|To switch parts without sounding the drums|**PAD MODE [NOTE]**+**Pad**|--|v1.0|
+|To mute a drum part (for each track)|**TRACK [SEL]**+**Pad**|Drum Track selected|v1.0|
+|To switch parts without sounding the drums|**PAD MODE [NOTE]**+**Pad**|Drum Track selected|v1.0|
 |To start/stop each track|**PAD MODE [CLIP]**+**TRACK [SEL]**|--|v1.0|
 |To forcibly return to the beginning of the pattern|**[SHIFT]**+**[START/STOP]**|Playing|v1.0|
 |To silence sound that continues after stopping|**[SHIFT]**+**[START/STOP]**|Stopped|v1.0|
