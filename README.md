@@ -153,15 +153,15 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 - 8 Scenes, 16 banks. 
 - Simpler to operate, but less Scenes per Project.
 
-|Action|Mode|Shortcut|Version|
+|Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Select Bank|**[MUTE]** Mode|**[STEP]**|v1.5|
-|Store Scene 1-4|--|Long-Press **SCENE [#]**|v1.5|
-|Store Scene 5-8|--|**[SHIFT]** + Long-Press **SCENE [#]**|v1.5|
-|Recall Scene 1-4|--|Tap **SCENE [1] - [4]**|v1.5|
-|Recall Scene 5-8|--|**[SHIFT]** + Tap **SCENE [1] - [4]**|v1.5|
-|Delete Scene 1-4|--|**[CLEAR]** + Tap **SCENE [1] - [4]**|v1.5|
-|Delete Scene 5-8|--|**[SHIFT]**+**[CLEAR]** + Tap **SCENE [1] - [4]**|v1.5|
+|Select Bank|**[STEP]**|**[MUTE]** Mode|v1.5|
+|Store Scene 1-4|Long-Press **SCENE [#]**|--|v1.5|
+|Store Scene 5-8|**[SHIFT]** + Long-Press **SCENE [#]**|--|v1.5|
+|Recall Scene 1-4|Tap **SCENE [1] - [4]**|--|v1.5|
+|Recall Scene 5-8|**[SHIFT]** + Tap **SCENE [1] - [4]**|--|v1.5|
+|Delete Scene 1-4|**[CLEAR]** + Tap **SCENE [1] - [4]**|--|v1.5|
+|Delete Scene 5-8|**[SHIFT]**+**[CLEAR]** + Tap **SCENE [1] - [4]**|--|v1.5|
 ### Scene Mode Type 2:  
 - 16 Scenes, 8 banks.
 - Slightly more complex to use, more Scenes per Project.
@@ -169,16 +169,16 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 - You will see an elipises (...) to mark the seconds left.
 - If you need more than 3 seconds, use the (No Rush) shortcuts
 
-|Action|Mode|Shortcut|Version|
+|Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Select Bank 1-4 & Start Timer|--|Tap **SCENE [1] - [4]**|v1.5|
-|Select Bank 5-8 & Start Timer|--|**[SHIFT]** + Tap **SCENE [1] - [4]**|v1.5|
-|Recall Scene (Before Timer)|--|**[STEP]** before Timer ends|v1.5|
-|Recall Scene (No Rush)|**[MUTE]** Mode|**[STEP]**|v1.5|
-|Store Bank 1-4 and Scene 1-16|--|Long-Press **SCENE [#]** button, then press **[STEP]**|v1.5|
-|Store Bank 6-8 and Scene 1-16|--|**[SHIFT]** + Long-Press **SCENE [#]** button, then press **[STEP]**|v1.5|
-|Delete Scene (Before Timer)|--| **[CLEAR]**+**[STEP]** before Timer ends|v1.5|
-|Delete Scene (No Rush)|**[MUTE]** Mode|**[CLEAR]**+**[STEP]**|v1.5|
+|Select Bank 1-4 & Start Timer|Tap **SCENE [1] - [4]**|--|v1.5|
+|Select Bank 5-8 & Start Timer|**[SHIFT]** + Tap **SCENE [1] - [4]**|--|v1.5|
+|Recall Scene (Before Timer)|**[STEP]** before Timer ends|--|v1.5|
+|Recall Scene (No Rush)|**[STEP]**|**[MUTE]** Mode|v1.5|
+|Store Bank 1-4 and Scene 1-16|Long-Press **SCENE [#]** button, then press **[STEP]**|--|v1.5|
+|Store Bank 6-8 and Scene 1-16|**[SHIFT]** + Long-Press **SCENE [#]** button, then press **[STEP]**|--|v1.5|
+|Delete Scene (Before Timer)|**[CLEAR]**+**[STEP]** before Timer ends|--|v1.5|
+|Delete Scene (No Rush)|**[CLEAR]**+**[STEP]**|**[MUTE]** Mode|v1.5|
 
 ## Sampling shortcuts
 |Action|Shortcut|Version|
