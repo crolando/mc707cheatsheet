@@ -81,6 +81,7 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To clear the phrase from a drum part|--|**[CLEAR]**+**Pad**|v1.0|
 |To duplicate a phrase|**[Clip Sequence Setting Screen](#CSS)**|**[FUNC]**+**MEASURE [>]**|v1.0|
 
+
 ## Performance
 |Action|Mode|Shortcut|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
@@ -200,6 +201,11 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Skip the confirmation when overwriting a project|In PROJECT save screen: **[FUNC]**+**[ENTER]**|v1.2|
 
+## Clip Editing
+|Action|Shortcut|
+|-----------------------------------|-----------------------------------|
+|Select whole row of clips|**[FUNC]**+**CURSOR [RIGHT]**|
+|Select single clips|**[FUNC]**+**CURSOR [LEFT]**|
 
 # Cheat Sheet - Workflows
 
