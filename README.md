@@ -86,14 +86,16 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To forcibly return to the beginning of the pattern|Playing|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To silence sound that continues after stopping|Stopped|**[SHIFT]**+**[START/STOP]**|v1.0|
 |To transpose the sequence|--|**[NOTE]**+**Pad**|v1.8|
-|Temporarily set RANDOM Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [>]**|v1.1|
-|Temporarily set REVERSE Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [<]**|v1.1|
-|Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[TEMPO]**|v1.1|
+|Temporarily set RANDOM Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [>]**|v1.02|
+|Temporarily set REVERSE Sequencer mode|--|**TRACK [SEL]**+**MEASUERE [<]**|v1.02|
+|Invert (Swap) MUTE states for all tracks|--|**[FUNC]**+**[MUTE]**|v1.02|
 |Turn on Arpeggiator|Note Edit Screen|**[NOTE]**|v1.6|
 |Turn on Arpeggiator|Chord Edit Screen|**[CHORD]**|v1.6|
 |Play entire row of clips|--|**[CLIP]**+**[STEP]**|v1.2|
 |Repeat the drum note|--|**PAD MODE [CHORD]**|**Pad**|v.1.3|
 |Set drum note repeat frequency|--|**PAD MODE [CHORD]**|**STEP [1]-[6]** |v.1.3|
+|Shift the pad octave in a non-Chromatic scale|**[NOTE]** Mode|Hold the **[NOTE]** + **[OCT-]** or **[OCT+]** pad|v1.2|
+|Play the selected steps as a loop|--|Hold track **[SEL]** + press & release **[STEP]** buttons|v1.02|
 
 ## Controller Values and Parameter Editing
 |Action|Mode|Shortcut|Version|
@@ -109,27 +111,30 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 |To jump between effect type categories|[MFX EDIT screen](#MFXES)|**[SHIFT]**+**[C2]** knob.|v1.0|
 |To move to the same parameter for each band(low, mid, high) of the TOTAL COMP|[TOTAL COMP EDIT screen](#TECES)|**[SHIFT]**+**CURSOR [UP] or [DOWN]**|v1.0|
 |Adjust the Pad Gain|--|**[NOTE]**+**CURSOR [UP] / [DOWN]**|v1.2|
-|Initialize the parameter assigned to a knob|--|**[SHIFT]**+**[CLEAR]**+**[FILTER]** / **[MOD]** / **[FX]** knob|v1.1|
+|Initialize the parameter assigned to a knob|--|**[SHIFT]**+**[CLEAR]**+**[FILTER]** / **[MOD]** / **[FX]** knob|v1.02|
 
 ## Sequence editing shortcuts
 |Action|Shortcut|Mode|Version|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|Copy/Paste Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy, **[FUNC]**+**CURSOR [DOWN]** to paste.|**[NOTE]** mode|
+|Copy Step|Select **[STEP]** to copy, **[FUNC]**+**CURSOR [UP]** to copy|**[NOTE]** mode|v1.02|
+|Paste Step|Select **[STEP]** to paste, **[FUNC]**+**CURSOR [DOWN]** to paste.|**[NOTE]** mode|v1.02|
 |Duplicate measure|**[FUNC]**+**CURSOR [>]**|
 |Halve measure|**[FUNC]**+**CURSOR [<]**|
 |Add drum substep|**[NOTE]**+**[STEP]**|**[NOTE]** mode|v1.1|
-|Add 50% probability drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|
-|Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|
+|Add 50% probability drum hit|**[MUTE]**+**[STEP]**|**[NOTE]** mode|v1.02|
+|Add low velocity drum hit|**Pad**+**[STEP]**|**[NOTE]** mode|v1.02|
 |Clear clip in selected row|**[CLEAR]**+**TRACK[SEL]**|
 |Auto-advance mode (tone track only)|**[REC]**+**[STEP]**|**[NOTE]** mode|
 |Note edit|**[STEP]**|**[NOTE]** mode|
 |Motion edit|**[STEP]** then **CURSOR [<]** to select MOTION tab|**[NOTE]** mode|
 |First/last step mode|**[SHIFT]**+**MOTION [REC]**|
 |Cancel first/last step|**[CLEAR]**|First/Last Step Mode|
-|Toggle Metronome|**[FUNC]**+**[TEMPO]**|--|v1.1|
+|Toggle Metronome|**[FUNC]**+**[TEMPO]** (See System SettingsCTRL tab for options)|--|v1.02| 
 |Undo|**[EXIT]**+**MEASURE [<]**|--|v1.8|
 |Redo|**[EXIT]**+**MEASURE [>]**|--|v1.8|
 |Motion Drawing| **[FUNC]**|Step Edit mode|v1.3|
+|Change all events in a step|**[FUNC]** + Turn **[C1]** - **[C4]**|v1.02|
+|Set START value to "0"|**[CLEAR]** + Turn **[C3]**|v1.02|
 
 ## Scene shortcuts
 In my opinion these are all kind of clunky, so pick your poison and practice them before you perform.
@@ -174,6 +179,10 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 |-----------------------------------|-----------------------------------|-----------------------------------|
 |Continuously assign the resulting sound sliced using the sampler to the pads|**[NOTE]**+**[ENTER]** (Press repeatedly)|v1.8|
 |Access the SAMPLING RECORDER screen|**[SHIFT]**+**[REC]**|v1.2|
+|Vertically expands the sample|**CURSOR [UP]**|v1.2|
+|Vertically shrinks the sample|**CURSOR [DOWN]**|v1.2|
+|Re-records the sample|**[SHIFT]** + **[EXIT]**|v1.2|
+|Previews the sample|**[FUNC]**|v1.2|
 |Delete the slice point|**[CLEAR]** + press the **[C2]** knob|v1.3|
 
 ## Copy Paste
