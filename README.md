@@ -97,8 +97,10 @@ Note: these modify the SOUND object of the selected clip
 |Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASURE [>]**|--|v1.02|
 |Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASURE [<]**|--|v1.02|
 |Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[MUTE]**|--|v1.02|
-|Turn on Arpeggiator|**PAD MODE [NOTE]**|**PAD MODE [NOTE]**|v1.6|
-|Turn on Arpeggiator|**PAD MODE [CHORD]**|**PAD MODE [CHORD]**|v1.6|
+|Turn on Arpeggiator|**PAD MODE [NOTE]**|NOTE Edit Menu|v1.6|
+|Turn off Arpeggiator|**PAD MODE [NOTE]**|After arp was enabled in NOTE menu|v1.6|
+|Turn on Arpeggiator|**PAD MODE [CHORD]**|CHORD Edit Menu|v1.6|
+|Turn off Arpeggiator|**PAD MODE [CHORD]**|After arp was enabled in CHORD menu|v1.6|
 |Play entire row of clips|**[CLIP]**+**[STEP]**|--|v1.2|
 |Repeat the drum part|**Pad**|**PAD MODE [CHORD]** & Drum Track Selected|v.1.3|
 |Set repeat frequency for single drum part|**STEP [1] - [6]**|**PAD MODE [CHORD]** & Drum Track Selected|v.1.3|
