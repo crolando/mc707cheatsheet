@@ -201,6 +201,8 @@ For full documentation see https://static.roland.com/assets/media/pdf/MC-707_upd
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |Copy|Drum Kit Pad Contents|**[FUNC]**+**CURSOR [UP]**|v1.5|
 |Paste|Drum Kit Pads Contents|**[FUNC]**+**CURSOR [DOWN]**|v1.5|
+|Copy|Tone Track Step Edit Notes|**[FUNC]**+**CURSOR [UP]**|v1.5|
+|Paste|Tone Track Step Edit Notes|**[FUNC]**+**CURSOR [DOWN]**|v1.5|
 
 ## Project Management
 |Action|Shortcut|Version|
