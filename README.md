@@ -97,11 +97,11 @@ Note: these modify the SOUND object of the selected clip
 |Temporarily set RANDOM Sequencer mode|**TRACK [SEL]**+**MEASUERE [>]**|--|v1.02|
 |Temporarily set REVERSE Sequencer mode|**TRACK [SEL]**+**MEASUERE [<]**|--|v1.02|
 |Invert (Swap) MUTE states for all tracks|**[FUNC]**+**[MUTE]**|--|v1.02|
-|Turn on Arpeggiator|**[NOTE]**|Note Edit Screen|v1.6|
-|Turn on Arpeggiator|**[CHORD]**|Chord Edit Screen|v1.6|
+|Turn on Arpeggiator|**PAD MODE [NOTE]**|**PAD MODE [NOTE]**|v1.6|
+|Turn on Arpeggiator|**PAD MODE [CHORD]**|**PAD MODE [CHORD]**|v1.6|
 |Play entire row of clips|**[CLIP]**+**[STEP]**|--|v1.2|
-|Repeat the drum note|**PAD MODE [CHORD]**|**Pad**|--|v.1.3|
-|Set drum note repeat frequency|**PAD MODE [CHORD]**|**STEP [1]-[6]**|--|v.1.3|
+|Repeat the drum note|**PAD MODE [CHORD]**|**Pad**|Drum Track selected|v.1.3|
+|Set drum note repeat frequency|**PAD MODE [CHORD]**|**STEP [1]-[6]**|Drum Track selected|v.1.3|
 |Shift the pad octave in a non-Chromatic scale|Hold the **[NOTE]** + **[OCT-]** or **[OCT+]** pad|**[NOTE]** Mode|v1.2|
 |Play the selected steps as a loop|Hold track **[SEL]** + press & release **[STEP]** buttons|--|v1.02|
 
